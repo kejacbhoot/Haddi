@@ -14,5 +14,6 @@
 "h" : "yes",
 "ads" : "yes",
 "myAds" : "no",
-"myAdsTime" : 40
+"myAdsTime" : 40,
+"offset-EG" : -1
 }
